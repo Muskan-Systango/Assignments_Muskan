@@ -1,0 +1,9 @@
+[submodule "Weekend_Assign"]
+	path = Weekend_Assign
+	url = https://github.com/Muskan-Systango/Weekend_Assign.git
+[submodule "Debug_Assignment"]
+	path = Debug_Assignment
+	url = https://github.com/Muskan-Systango/Debug_Assignment.git
+[submodule "UseRef_Assignment"]
+	path = UseRef_Assignment
+	url = https://github.com/Muskan-Systango/UseRef_Assignment.git
