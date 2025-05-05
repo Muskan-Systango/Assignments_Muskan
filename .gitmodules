@@ -7,3 +7,6 @@
 [submodule "UseRef_Assignment"]
 	path = UseRef_Assignment
 	url = https://github.com/Muskan-Systango/UseRef_Assignment.git
+[submodule "Page_Routing_NextJS"]
+	path = Page_Routing_NextJS
+	url = https://github.com/Muskan-Systango/Page_Routing_NextJS.git
