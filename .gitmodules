@@ -10,3 +10,6 @@
 [submodule "Page_Routing_NextJS"]
 	path = Page_Routing_NextJS
 	url = https://github.com/Muskan-Systango/Page_Routing_NextJS.git
+[submodule "DarkMode_Toggle_Assignment"]
+	path = DarkMode_Toggle_Assignment
+	url = https://github.com/Muskan-Systango/DarkMode_Toggle_Assignment.git
